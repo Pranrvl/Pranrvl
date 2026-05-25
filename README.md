@@ -5,10 +5,7 @@
 
 <div align="center">
 
-**Informatics Student** • **Designer** • **Fhotography**  
-
-
-[🔗 GitHub](https://github.com/Pranrvl)
+**Informatics** • **Fhotography**  
 
 </div>
 
@@ -77,7 +74,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranrvl&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://github.com/Pranrvl)
  
 </div>
----
+
+
 
 <div align="center">
   <sub>Always learning • Always building • Always growing</sub>
