@@ -88,17 +88,6 @@ Exploring sophisticated machine learning architectures and optimization techniqu
  
 </div>
 
-
-
-## Beyond Code
-
-```
-🌲  Wilderness expeditions with Palada
-🏃‍♂️  Endurance training (30km race challenge)
-🎮  Competitive gaming (PUBG Mobile)
-🔧  Perpetual optimization
-```
-
 ---
 <div align="center">
 
@@ -107,20 +96,6 @@ Exploring sophisticated machine learning architectures and optimization techniqu
  
 </div>
 ---
-
-## Let's Connect
-
-I'm always interested in:
-- Collaborative projects with meaningful impact
-- Technical discussions on ML and architecture
-- Automotive technology conversations
-- Adventure planning and training partnerships
-
-<div align="center">
-
-**[Open for opportunities & collaborations](#)**
-
-</div>
 
 ---
 
