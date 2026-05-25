@@ -101,7 +101,7 @@ Exploring sophisticated machine learning architectures and optimization techniqu
 
 ---
 <div align="center">
-[![Pran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranrvl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=FF6B6B&title_color=FF6B6B&card_width=500)](https://github.com/Pranrvl)
+
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranrvl&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://github.com/Pranrvl)
  
