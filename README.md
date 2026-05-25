@@ -6,32 +6,11 @@
 <div align="center">
 
 **Informatics Student** • **Designer** • **Fhotography**  
-Building intelligent systems. Solving complex problems. Living for the adventure.
 
-[🔗 GitHub](https://github.com/Pranrvl) · [💼 Portfolio](#) · [📧 Contact](#)
+
+[🔗 GitHub](https://github.com/Pranrvl)
 
 </div>
-
----
-
-## About
-
-I'm an informatics engineering student passionate about machine learning, mobile development, and automotive technology. Currently working on intelligent systems that matter—from healthcare classification to interactive mobile interfaces.
-
-When I'm not debugging code, you'll find me in the wilderness, training for endurance races, or optimizing systems for peak performance.
-
----
-
-## Current Focus
-
-**🏥 Heart Disease Classification System**  
-Building an early detection system using Decision Trees and Streamlit. Making healthcare accessible through intelligent, intuitive interfaces.
-
-**📱 Mobile UI Development**  
-Creating responsive Android interfaces with modern design principles and seamless user experiences.
-
-**🤖 Advanced ML Implementation**  
-Exploring sophisticated machine learning architectures and optimization techniques.
 
 ---
 
@@ -98,8 +77,6 @@ Exploring sophisticated machine learning architectures and optimization techniqu
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranrvl&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://github.com/Pranrvl)
  
 </div>
----
-
 ---
 
 <div align="center">
