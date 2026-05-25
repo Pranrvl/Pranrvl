@@ -88,15 +88,7 @@ Exploring sophisticated machine learning architectures and optimization techniqu
  
 </div>
 
----
 
-## Professional Background
-
-- **Informatics Engineering Student** — Focused on ML and software architecture
-- **Sales Consultant @ Ford Tomang** — Automotive expertise and technical specifications
-- **Founder @ Qoraci** — Building a fashion brand with entrepreneurial vision
-
----
 
 ## Beyond Code
 
