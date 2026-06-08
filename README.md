@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2>
 <div align="center">
  
-  <img src="https://tenor.com/view/snow-cat-cozy-pixel-art-gif">
+  <img src="https://tenor.com/bfipK.gif">
 
 <div align="center">
 
