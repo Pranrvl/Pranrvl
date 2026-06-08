@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2>
 <div align="center">
  
-  <img src="https://i.gifer.com/GVue.gif" width="100%" alt="Coding GIF">
+  <img src="https://tenor.com/view/snow-cat-cozy-pixel-art-gif-15999694">
 
 <div align="center">
 
